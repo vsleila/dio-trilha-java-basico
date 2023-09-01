@@ -24,7 +24,8 @@ Nesse desafio, a Dio nos propós um exercício de revisão do conteúdo apresent
 
 5- Após todas as informações serem inseridas, o sistema deverá exibir a seguinte mensagem:
 
-```"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".```
+```"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia],````
+conta [Numero] e seu saldo [Saldo] já está disponível para saque".```
 
 
 
