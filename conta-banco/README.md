@@ -1,18 +1,34 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Desafio I - Dio :star:
 
-## Folder Structure
+Nesse desafio, a Dio nos propós um exercício de revisão do conteúdo apresentado no módulos anteriores.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Explicação:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1- Criar um projeto denominado `ContaBanco`
 
-## Dependency Management
+2- Dentro do projeto, criar a `ClasseTerminal.java`
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+3- Os dados inseridos no terminal devem seguir esse padrão:
+
+| Parâmetro   | Tipo       |                            
+| :---------- | :--------- |  
+| Numero | inteiro | 
+| Agencia | texto|
+| Nome do Cliente | Texto |
+| Saldo | Decimal |
+
+4- O programa solicita os dados, com o conteúdo dos parâmetros apresentados.
+
+5- Após todas as informações serem inseridas, o sistema deverá exibir a seguinte mensagem:
+
+```"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".```
+
+
+
+## Autora:
+
+- [@vsleila](https://github.com/vsleila/)
+
